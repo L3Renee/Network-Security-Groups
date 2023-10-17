@@ -1,6 +1,7 @@
 # Network-Security-Groups
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<![image](https://github.com/L3Renee/Network-Security-Groups/assets/147538608/9d47acb0-9062-4509-9b68-b16da2dddd91)
+img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
