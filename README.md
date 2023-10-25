@@ -32,7 +32,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 3
 - Step 4
 
-
+<h2>Actions and Observations</h2>
 <p>
   ![image](https://github.com/L3Renee/Network-Security-Groups/assets/147538608/5e734105-6062-4bf4-8af2-f17f433fcb94)
 
