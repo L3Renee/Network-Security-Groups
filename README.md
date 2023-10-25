@@ -1,6 +1,6 @@
 # Network-Security-Groups
 <p align="center">
-<![image](https://github.com/L3Renee/Network-Security-Groups/assets/147538608/9d47acb0-9062-4509-9b68-b16da2dddd91)
+<![image]
 img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 2
 - Step 3
 - Step 4
-
+(https://github.com/L3Renee/Network-Security-Groups/assets/147538608/9d47acb0-9062-4509-9b68-b16da2dddd91)
 <h2>Actions and Observations</h2>
 
 <p>
