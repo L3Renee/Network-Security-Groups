@@ -46,8 +46,8 @@ Created Network Security Groups in Azure.
 <br />
 
 <p>
-<img src="https://github.com/L3Renee/Network-Security-Groups/assets/147538608/c42803a2-c092-4f9c-9320-da40732717d2"/>
-
+<img src="https://github.com/L3Renee/Network-Security-Groups/assets/147538608/a4f7135e-ee71-40f1-bf32-58944700af49"/>
+  
 </p>
 <p>
 Various commnd- line used. 
